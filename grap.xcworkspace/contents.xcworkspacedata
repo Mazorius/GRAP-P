@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Week5">
+      <FileRef
+         location = "group:exercises/week5/exercise5/exercise5.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Week4">
+      <FileRef
+         location = "group:exercises/week4/exercise4/exercise4.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Week3">
+      <FileRef
+         location = "group:exercises/week3/exercise3b/exercise3b.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercises/week3/exercise3a/exercise3a.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Week2">
+      <FileRef
+         location = "group:exercises/week2/exercise2b/exercise2b.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercises/week2/exercise2a/exercise2a.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Week1">
+      <FileRef
+         location = "group:exercises/week1/exercise3.3/exercise3.3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:exercises/week1/exercise2.1/exercise2.1.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:sources/sampleProgram/sampleProgram.xcodeproj">
+   </FileRef>
+</Workspace>
